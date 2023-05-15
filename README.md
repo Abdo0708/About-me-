@@ -28,7 +28,7 @@
 
 - 🔭 &nbsp; I’m currently learning Bug Hunting ...
 - 🤔 &nbsp; Exploring new technologies and developing hacking solutions .
-- 🎓 &nbsp; Studying Computer Science, computer programming and Networks .
+- 🌱 &nbsp; Studying Computer Science , Penetration Testing and Data Analysis .
 - 💼 &nbsp; Bug Hunter // Python Backend Developer  -->  SOON !!
 - 🌱 &nbsp; Enthusiast in Cyber Security !!
 - ✍️ &nbsp; Watching universe and trying out latest hacking toolS as hobbies/side hustles.
