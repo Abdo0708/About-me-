@@ -1,6 +1,6 @@
 <div align="center">
     <div>
-        <img src="https://github.com/Abdo0708/About-me-/blob/main/profile.png?raw=true" alt="Profile header" width="100%" />
+        <img src="https://github.com/Abdo0708/Abdo0708/raw/Master/assets/profile.png" alt="Profile header" width="100%" />
         <div>
         <a href="https://www.linkedin.com/in/abdelrahman-ashraf-772561251/">
             <img src="https://img.shields.io/badge/linkedin-connect-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
