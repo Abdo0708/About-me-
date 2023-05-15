@@ -1,6 +1,6 @@
 <div align="center">
     <div>
-        <img src="C:\Users\abdoa\Desktop\Boudii..&\GitHub Profile" alt="Profile header" width="100%" />
+        <img src="C:\Users\abdoa\Desktop\Boudii..&\GitHub\Profile" alt="Profile header" width="100%" />
         <div>
         <a href="https://www.linkedin.com/in/abdelrahman-ashraf-772561251/">
             <img src="https://img.shields.io/badge/linkedin-connect-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
@@ -16,12 +16,12 @@
 </div>
 <br/><br/>
 
-# <div align="center"> -------------------------------------------------------------- </div>
+# <div align="center"> ----------------------------------------------------------- </div>
 
-## <div align="center"> Cyber Security </div>
+## <div align="center"> CYBER SECURITY </div>
 
-# <div align="center"> -------------------------------------------------------------- </div>
+# <div align="center"> ----------------------------------------------------------- </div>
 
 ## Welcome 
 
-My name is Abdelrahman Ashraf, and I am a Computer Science Sophomore at Egypt's University of Ain Shams. I am looking to study and develop myself in the field of CYBER SECURITY since I am really interested in this vast subject.
+I am a Computer Science Sophomore at Egypt's University of Ain Shams. I am looking to study and develop myself in the field of CYBER SECURITY since I am really interested in this vast subject.
