@@ -33,3 +33,11 @@
 - 🌱 &nbsp; Enthusiast in Cyber Security !!
 - ✍️ &nbsp; Watching universe and trying out latest hacking toolS as hobbies/side hustles.
 - 😴 &nbsp; I believe, a perfect nap and avoiding FIFA can be the ultimate solution for any stress.
+
+# <div align="center"> ---------------------------------------------------------- </div>
+
+
+![Abdo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdo0708&hide=["issues"]&show_icons=true&theme=onedark).
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo0708&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
