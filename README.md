@@ -1,6 +1,6 @@
 <div align="center">
     <div>
-        <img src="https://github.com/Abdo0708/Abdo0708/raw/Master/assets/profile.png" alt="Profile header" width="100%" />
+        <img src="https://github.com/Abdo0708/Abdo0708/Master/assets/profile.png" alt="Profile header" width="100%" />
         <div>
         <a href="https://www.linkedin.com/in/abdelrahman-ashraf-772561251/">
             <img src="https://img.shields.io/badge/linkedin-connect-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
@@ -24,4 +24,12 @@
 
 ## Welcome 
 
-I am a Computer Science Sophomore at Egypt's University of Ain Shams. I am looking to study and develop myself in the field of CYBER SECURITY since I am really interested in this vast subject.
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; I’m currently learning Bug Hunting ...
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Networks .
+- 💼 &nbsp; full-stack developer and Data Science.
+- 🌱 &nbsp; Enthusiast in Cyber Security !!
+- ✍️ &nbsp; Watching universe and trying out latest hacking tool trends as hobbies/side hustles.
+- 😴 &nbsp; I believe, a perfect nap and avoiding FIFA can be the ultimate solution for any stress.
