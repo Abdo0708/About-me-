@@ -1,26 +1,18 @@
 <div align="center">
     <div>
         <img src="https://github.com/Abdo0708/Abdo0708/blob/Master/assets/profile%20.png" alt="Profile header" width="100%" />
-        <div>
-        <a href="https://www.linkedin.com/in/abdelrahman-ashraf-772561251/">
-            <img src="https://img.shields.io/badge/linkedin-connect-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
-        </a>&nbsp;&nbsp;
-        <a href="https://www.instagram.com/a.ashraf101/">
-            <img src="https://img.shields.io/badge/instagram-follow-%23FF0000.svg?&style=for-the-badge&logo=instagram" />
-        </a>&nbsp;&nbsp;
-         <a href="https://www.youtube.com/channel/UCUd8o4L2sJoihbxABop6qWg">
-            <img src="https://img.shields.io/badge/youtube-subscribe-%23FF0000.svg?&style=for-the-badge&logo=youtube" />
-        </a>
-    </div>
     </div>
 </div>
 <br/><br/>
 
-# <div align="center"> ---------------------------------------------------------- </div>
+### <div align="center"> ---------------------------------------------------------- </div>
 
-## <div align="center"> CYBER SECURITY </div>
+# <div align="center"> CYBER SECURITY </div>
 
-# <div align="center"> ---------------------------------------------------------- </div>
+### <div align="center"> ---------------------------------------------------------- </div>
+
+
+
 
 ## Welcome 
 
@@ -38,6 +30,24 @@
 
 --> SOON ADDED !
 
+
+## Connect with me
+
+<div align="center">
+<a href="mailto:abdoash2003@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23F45.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Abdo0708" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/abdelrahman-ashraf-772561251" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/a.ashraf101/">
+<img src=https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=instagram&logoColor=red alt=instagram style="margin-bottom: 5px;" />
+</a>
+
+</div>
 
 ## My Stats !!
 <br/>
