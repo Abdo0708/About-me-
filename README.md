@@ -34,10 +34,27 @@
 - ✍️ &nbsp; Watching universe and trying out latest hacking tools as hobbies/side hustles.
 - 😴 &nbsp; I believe, a perfect nap and avoiding FIFA can be the ultimate solution for any stress.
 
-# <div align="center"> ---------------------------------------------------------- </div>
+## My Skills !!
+
+--> SOON ADDED !
 
 
-![Abdo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdo0708&hide=["issues"]&show_icons=true&theme=onedark).
+## My Stats !!
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo0708&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+<div>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Abdo0708&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdo0708&theme=radical&hide_border=true" />
+</div>
+<br>
+
+
+<div>
+<img width="49.5%" align="top" src="https://github-profile-trophy.vercel.app/?username=Abdo0708&theme=radical&row=2&column=3&no-frame=true&no-bg=false&margin-w=5&margin-h=5" />
+<img width="49.5%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo0708&layout=compact&theme=radical&hide_border=true&langs_count=12&hide=jupyter%20notebook" />  
+ </div>
+ 
+ <br>
+
+![Abdo's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abdo0708&custom_title=Abdelrahman%20Ashraf's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
