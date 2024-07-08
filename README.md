@@ -21,7 +21,7 @@
 - 🔭 &nbsp; I’m currently learning Bug Hunting ...
 - 🤔 &nbsp; Exploring new technologies and developing hacking solutions .
 - 🌱 &nbsp; Studying Computer Science , Penetration Testing and Security Analysis .
-- 💼 &nbsp; Bug Hunter // Python Backend Developer  -->  SOON !!
+- 💼 &nbsp; Red Teamer  -->  SOON !!
 - 🌱 &nbsp; Enthusiast in Cyber Security !!
 - ✍️ &nbsp; Watching universe and trying out latest hacking tools as hobbies/side hustles.
 - 😴 &nbsp; I believe, a perfect nap and avoiding FIFA can be the ultimate solution for any stress.
